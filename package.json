@@ -1,0 +1,19 @@
+{
+  "name": "ysfjk",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/YSFJK/ysf.git"
+  },
+  "author": "nanashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YSFJK/ysf/issues"
+  },
+  "homepage": "https://github.com/YSFJK/ysf#readme"
+}
